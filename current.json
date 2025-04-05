@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "downloadURL": "https://version.directstudio.io/download/ScreenRecorder-v1.0.6-1.dmg",
-    "releaseNotes": "What's New in This Update?  Added microphone support for macOS versions earlier than 15.  Resolved window resizing and positioning errors. General improvements include performance optimizations and UI/UX refinements. Update now for a better experience!"
+    "version": "1.0.7",
+    "downloadURL": "https://version.directstudio.io/download/ScreenRecorder-v1.0.7-1.dmg",
+    "releaseNotes": "What's New in This Update? Default save location is now the Documents folder for easier file picker access, and recording controls now display Start Recording and Stop Recording instead of just icons, based on user feedback."
 }
