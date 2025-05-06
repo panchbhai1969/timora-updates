@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
-    "downloadURL": "https://version.directstudio.io/download/ScreenRecorder-v1.0.7-1.dmg",
-    "releaseNotes": "What's New in This Update? Default save location is now the Documents folder for easier file picker access, and recording controls now display Start Recording and Stop Recording instead of just icons, based on user feedback."
+    "version": "1.0.8",
+    "downloadURL": "https://version.directstudio.io/download/ScreenRecorder-v1.0.8-1.dmg",
+    "releaseNotes": "What's New in This Update? Updated redirection location as per the new routing structure of directstudio.io website."
 }
